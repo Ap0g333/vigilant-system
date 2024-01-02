@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "cc3e6978ddb11d9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "861bc3feb6c3f92c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2b86032a4d49ffa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5952750fbe8636dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7c2685c1cf2e013",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a835d0a61d92fe2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f04d358da5f91382",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a79b954349cab2d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7764c1fca69c5d4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2e9b3da001c209f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6778f419d555484c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "352109cd33ae6ea5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "540792d6609a8470",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "252e4faee996815b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8a835d0a61d92fe2",
+  "lastOpenFiles": [
+    "PicoCTF",
+    "OverTheWird",
+    "Pentest Playbook",
+    "HackTheBox",
+    "TryHackMe"
+  ]
+}
